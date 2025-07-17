@@ -62,8 +62,10 @@ Feel free to check the [issues page](https://github.com/yourusername/Safe-Path/i
 
 ---
 
-
-
 ## 👤 Contributors
 
-- [AbhayGaur61](https://github.com/AbhayGaur61) 
+- [AbhayGaur61](https://github.com/AbhayGaur61)  
+- Project initially based on the work of [Prathamesh9997](https://github.com/Prathamesh9997); further changes and enhancements by AbhayGaur61.
+
+
+
