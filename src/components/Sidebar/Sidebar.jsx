@@ -9,7 +9,7 @@ import {
 export const Sidebar = ({ mapView, handleMapViewChnage }) => {
   return (
     <SidebarContainer>
-      <SidebarHeader>Google Maps with React</SidebarHeader>
+      <SidebarHeader>SAFE PATH</SidebarHeader>
       <SidebarContent>
         <ul>
           {listItems.map((item) => (

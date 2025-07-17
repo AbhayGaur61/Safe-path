@@ -9,15 +9,15 @@ export const listItems = [
   },
   {
     key: "customMarker1",
-    value: "Custom Marker 1",
+    value: "Custom Route 1",
   },
   {
     key: "customMarker2",
-    value: "Custom Marker 2",
+    value: "Custom Route 2",
   },
   {
     key: "customMarker3",
-    value: "Custom Marker 3",
+    value: "Custom Route 3",
   },
   {
     key: "dynamicMapView",
