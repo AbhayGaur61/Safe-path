@@ -53,11 +53,7 @@ A modern, interactive web application for visualizing safe routes and danger zon
 
 ---
 
-## 📸 Screenshots
 
-_Add screenshots or GIFs here to showcase your app!_
-
----
 
 ## 🤝 Contributing
 
@@ -66,6 +62,8 @@ Feel free to check the [issues page](https://github.com/yourusername/Safe-Path/i
 
 ---
 
-## 📄 License
 
-This project is [MIT](LICENSE) licensed. 
+
+## 👤 Contributors
+
+- [AbhayGaur61](https://github.com/AbhayGaur61) 
